@@ -1,54 +1,63 @@
-<h1 align="center">Hi 👋, I'm Isaiah Haughton</h1>
-<h3 align="center">Aspiring Full Stack Developer | Computer Science Student at Old Dominion University</h3>
+<h1 align="center">👋 Hi, I'm Isaiah Haughton</h1>
+<h3 align="center">🚀 Computer Science Student at Old Dominion University | Full-Stack & Game Dev Enthusiast</h3>
 
 ---
 
-### 🔹 About Me:
-- 🎮 Passionate about **game development** and **full-stack programming**  
-- 🖥️ Learning **Python** and **GDScript (Godot)**  
-- 🚀 Exploring **game mechanics and web development**  
-- 🤖 Leveraging **AI tools** like GitHub Copilot and Claude to enhance learning and development  
-
----
-
-### 📍 My Roadmap:
+<h3 align="center">🌟 About Me</h3>
 <p align="center">
-  <a href="https://roadmap.sh">
-    <img src="https://roadmap.sh/card/tall/67ce22f181e9e8dd794cb54a?variant=dark&roadmaps=full-stack" alt="roadmap.sh" width="400">
-  </a>
-</p>
-<p align="center">Following a structured learning path to become a full-stack developer.</p>
-
----
-
-### 🛠️ Languages & Tools:
-<p align="center">
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://godotengine.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" alt="Godot Engine" width="40" height="40"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  </a>
-
+🔭 <strong>Currently:</strong> Learning full-stack development, starting with backend development<br>
+🌱 <strong>Learning:</strong> Python | HTML | CSS<br>
+🎯 <strong>2025 Goals:</strong> Contribute to 3 open-source projects<br>
+🤖 <strong>Embracing AI:</strong> Leveraging AI tools like <strong>GitHub Copilot</strong> and <strong>Claude</strong>
 </p>
 
 ---
 
-### 📫 Connect with Me:
-<p align="center">
-  <a href="http://www.linkedin.com/in/isaiah-haughton" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+<h3 align="center">🛠️ Tech Stack</h3>
+
+<h4 align="center">Core Languages</h4>
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white">
+</div>
+
+<h4 align="center">Tools & Platforms</h4>
+<div align="center">
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</div>
+
+---
+
+<div align="center">
+  <h3>🎓 Roadmap</h3>
+  
+  [![roadmap.sh](https://roadmap.sh/card/tall/67ce22f181e9e8dd794cb54a?variant=dark)](https://roadmap.sh)
+  
+</div>
+
+---
+
+<h3 align="center">📊 GitHub Stats</h3>
+<div align="center">
+  <a href="https://github.com/randomlyzay">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=randomlyzay&show_icons=true&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=randomlyzay&layout=compact&theme=dark"/>
+  </a>
+</div>
+
+---
+
+<h3 align="center">📬 Let's Connect</h3>
+<div align="center">
+  <a href="http://www.linkedin.com/in/isaiah-haughton">
+    <img src="https://img.shields.io/badge/LinkedIn-Isaiah_Haughton-0077B5?style=for-the-badge&logo=linkedin">
   </a>
   <a href="mailto:isaiahj.haughton@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-isaiahj.haughton@gmail.com-D14836?style=for-the-badge&logo=gmail">
   </a>
-</p>
+  <a href="https://randomlyzay.itch.io/">
+    <img src="https://img.shields.io/badge/Itch.io-RandomlyZay-FA5C5C?style=for-the-badge&logo=itch.io">
+  </a>
+</div>
