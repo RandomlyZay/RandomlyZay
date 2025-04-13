@@ -8,7 +8,6 @@
 🔭 <strong>Currently:</strong> Learning full-stack development, starting with backend development<br>
 🌱 <strong>Learning:</strong> Python | HTML | CSS<br>
 🎯 <strong>2025 Goals:</strong> Contribute to 3 open-source projects<br>
-🤖 <strong>Embracing AI:</strong> Leveraging AI tools like <strong>GitHub Copilot</strong> and <strong>Claude</strong>
 </p>
 
 ---
